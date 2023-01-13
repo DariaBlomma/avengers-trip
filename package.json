@@ -1,5 +1,9 @@
 {
   "private": true,
+  "engines": {
+    "node": ">=14.20.0",
+    "npm": ">=6.14.17"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -9,5 +13,9 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "sass": "^1.57.1",
+    "sass-loader": "^13.2.0"
   }
 }

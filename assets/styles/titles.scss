@@ -1,0 +1,32 @@
+// headings
+/* h1 */
+.primary-title {
+  font-family: $secondFontBold;
+  font-size: 32px;
+  line-height: 30px;
+  color: white;
+}
+
+.secondary-title {
+  font-family: $secondFontBold;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+
+.title-3 {
+  font-family: $secondFontBold;
+  font-size: 19px;
+  line-height: 30px;
+  color: $title-3-color;
+}
+
+@media (max-width: 375px) {
+  .primary-title {
+    font-size: 1.3em;;
+  }
+  
+  .secondary-title {
+    font-size: 1em;
+  }
+}

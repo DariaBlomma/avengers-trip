@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: $baseFontThin;
+  line-height: 30px;
+}
+
+@media (max-width: 770px) {
+  .page {
+    padding: 15px 10px;
+  }
+}
+
+@media (max-width: 375px) {
+  .page {
+    padding: 10px;
+  }
+}

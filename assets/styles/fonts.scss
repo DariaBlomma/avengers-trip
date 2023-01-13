@@ -1,0 +1,225 @@
+//montserrat
+@font-face {
+  font-family: 'Montserrat-Thin';
+  src: url('/fonts/Montserrat-Thin.ttf');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-ThinItalic';
+  src: url('../public/fonts/Montserrat-ThinItalic.ttf');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-ExtraLight';
+  src: url('../public/fonts/Montserrat-ExtraLight.ttf');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-ExtraLightItalic';
+  src: url('../public/fonts/Montserrat-ExtraLightItalic.ttf');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Light';
+  src: url('../public/fonts/Montserrat-Light.ttf');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-LightItalic';
+  src: url('../public/fonts/Montserrat-LightItalic.ttf');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url('../public/fonts/Montserrat-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Medium';
+  src: url('../public/fonts/Montserrat-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-MediumItalic';
+  src: url('../public/fonts/Montserrat-MediumItalic.ttf');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-SemiBold';
+  src: url('../public/fonts/Montserrat-SemiBold.ttf');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-SemiBoldItalic';
+  src: url('../public/fonts/Montserrat-SemiBoldItalic.ttf');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('../public/fonts/Montserrat-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-BoldItalic';
+  src: url('../public/fonts/Montserrat-BoldItalic.ttf');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-ExtraBold';
+  src: url('../public/fonts/Montserrat-ExtraBold.ttf');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-ExtraBoldItalic';
+  src: url('../public/fonts/Montserrat-ExtraBoldItalic.ttf');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Black';
+  src: url('../public/fonts/Montserrat-Black.ttf');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Black';
+  src: url('../public/fonts/Montserrat-Black.ttf');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+//playfair display
+@font-face {
+  font-family: 'PlayfairDisplay-Regular';
+  src: url('../public/fonts/PlayfairDisplay-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-Medium';
+  src: url('../public/fonts/PlayfairDisplay-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-MediumItalic';
+  src: url('../public/fonts/PlayfairDisplay-MediumItalic.ttf');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-SemiBold';
+  src: url('../public/fonts/PlayfairDisplay-SemiBold.ttf');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-SemiBoldItalic';
+  src: url('../public/fonts/PlayfairDisplay-SemiBoldItalic.ttf');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-Bold';
+  src: url('../public/fonts/PlayfairDisplay-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-BoldItalic';
+  src: url('../public/fonts/PlayfairDisplay-BoldItalic.ttf');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-ExtraBold';
+  src: url('../public/fonts/PlayfairDisplay-ExtraBold.ttf');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-ExtraBoldItalic';
+  src: url('../public/fonts/PlayfairDisplay-ExtraBoldItalic.ttf');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-Black';
+  src: url('../public/fonts/PlayfairDisplay-Black.ttf');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-BlackItalic';
+  src: url('../public/fonts/PlayfairDisplay-BlackItalic.ttf');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
