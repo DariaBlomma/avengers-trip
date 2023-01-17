@@ -1,3 +1,22 @@
+## TODO in next commits
+- фавикон, метаданные заголовка в nuxt config (done)
+- создать схему цветов
+- добавить линтер
+- стилизация селекта
+- добавление интерактивности
+  - связь селекта и карточек
+  - открытие модалки по клику из карточки
+  - обработка закрытия модалки и условной потери монеты
+- создать документация по использованию страниц сайта
+
+# About project
+
+This repo is a new version and continuation of 
+```summer-trips```, branch 
+```avengers-ui```
+
+```CSS``` code style - (https://netology-university.bitbucket.io/codestyle/css/#order)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -7,14 +26,8 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 Make sure to install the dependencies:
 
 ```bash
-# yarn
-yarn install
-
 # npm
 npm install
-
-# pnpm
-pnpm install --shamefully-hoist
 ```
 
 ## Development Server
