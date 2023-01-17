@@ -1,9 +1,5 @@
 ## TODO in next commits
-- подключение шрифтов (done)
-  - (https://webinmind.ru/nuxtjs/moduli/nuxt-style-resources)
-  - (https://postsrc.com/code-snippets/how-to-add-google-fonts-for-nuxt-js-project)
-  - (https://www.programmingbasic.com/how-to-add-font-locally-in-nuxt)
-- фавикон, метаданные заголовка в nuxt config
+- фавикон, метаданные заголовка в nuxt config (done)
 - создать схему цветов
 - добавить линтер
 - стилизация селекта

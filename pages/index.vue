@@ -19,11 +19,6 @@
 import { charactersShortInfoList } from '~/constants';
 </script>
 
-<!-- todo: если перенести подключение в индексный файл, то не работает-->
-<style lang="scss">
-@import '~/assets/styles/global.scss';
-</style>
-
 <style scoped lang="scss">
 .index-page {
   height: 100vh;
