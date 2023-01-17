@@ -34,6 +34,7 @@ $block: '.card';
 #{$block} {
     justify-items: center;
     padding: 15px;
+    font-family: $baseFontRegular;
     text-align: center;
     border: $card-dark-border;
     border-radius: $card-border-radius;
